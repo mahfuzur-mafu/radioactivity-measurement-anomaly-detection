@@ -118,15 +118,7 @@ Both apps share a common structure: a sidebar for configuration, a Classifier ta
 
 ## Repository Structure
 
-```
-.
-├── notebooks/              # Jupyter notebooks: cleaning, clustering, model training & evaluation
-├── streamlit_apps/
-│   ├── subtask1_preprocessing/   # Preprocessing Sample Classifier app
-│   └── subtask2_measurements/    # Final Results Sample Classifier app
-├── data/                   # (not included — provided directly by STUK)
-└── README.md
-```
+
 
 ---
 
