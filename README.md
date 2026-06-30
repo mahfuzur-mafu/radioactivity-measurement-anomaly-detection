@@ -2,7 +2,6 @@
 
 **University of Helsinki — Master's Programme in Data Science**
 **Authors:** Yee Hui Min, Joonas Honkavaara, Kim Rosqvist, Ofia Rahman Alif, Mahfuzur Rahman
-**Date:** June 30, 2026
 
 An automated anomaly detection system built for STUK (the Radiation and Nuclear Safety Authority of Finland), which collects tens of thousands of environmental samples each year (fish, soil, water, milk, and more) and manually enters radioactivity measurements into a database. Manual entry introduces the risk of errors and unusual values from atypical samples — this project automates the detection of those anomalies.
 
